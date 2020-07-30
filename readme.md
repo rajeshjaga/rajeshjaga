@@ -1,4 +1,4 @@
-## HI , I am Rajesh Jaga [aka. Lucifer &#128520;]
+### HI , I am Rajesh Jaga [aka. Lucifer &#128520;]
 
 # I am a Student, Web and UI Designer! &#x1F3A8;&#x1F4D8;
 
@@ -19,6 +19,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
+</hr>
 </br>
 
 <img alt="rajeshajaga git status" src="https://github-readme-stats.vercel.app/api?username=rajeshjaga&show_icons=true&hide_border=true">
