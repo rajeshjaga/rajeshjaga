@@ -20,6 +20,14 @@
 
 <br/>
 
+### Social Links:
+
+[<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+
+[<img  align="left" width="20px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg">][mail]
+
 <br/>
 
 ---
@@ -29,14 +37,6 @@
 ---
 
 <br/>
-
-### Social Links:
-
-[<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-
-[<img  align="left" width="20px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg">][mail]
 
 [instagram]: https://www.instagram.com/the_13een/
 [twitter]: https://twitter.com/rajaga223
