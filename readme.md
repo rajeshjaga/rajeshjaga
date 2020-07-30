@@ -20,6 +20,8 @@
 
 <br/>
 
+---
+
 ### Social Links:
 
 [<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,9 +36,6 @@
 
 <img alt="rajeshajaga git status" src="https://github-readme-stats.vercel.app/api?username=rajeshjaga&show_icons=true&hide_border=true">
 
----
-
-<br/>
 
 [instagram]: https://www.instagram.com/the_13een/
 [twitter]: https://twitter.com/rajaga223
