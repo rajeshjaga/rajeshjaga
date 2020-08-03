@@ -1,0 +1,19 @@
+@import "./variables";
+@import "./helper";
+@import "./globals";
+.upper {
+  height: 100vh;
+  .container {
+    flex-flow: column wrap;
+    background: $white;
+    backdrop-filter: blur(15px);
+    padding: 2rem 3rem;
+    border-radius: 15px;
+    box-shadow: $containerShadow;
+    a {
+      color: rgb(197, 197, 197);
+      margin-top: 1em;
+      box-shadow: 0 5px 10px rgb(240, 58, 98);
+    }
+  }
+}
