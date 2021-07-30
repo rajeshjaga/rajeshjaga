@@ -2,9 +2,8 @@
 
 # I am a Student, Web and UI Designer! &#x1F3A8;&#x1F4D8;
 
-- <img width="15px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/books_1f4da.png"> I like writing markup, Sass, JavaScript, Python and Swift
-- <img width="15px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/flexed-biceps_1f4aa.png"> I'm currently working to finish all the Front end mentor [Challenges](https://www.frontendmentor.io)
-- <img width="15px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/trophy_1f3c6.png"> Goals for 2020 : Learn Js <img alt="JavaScript" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> and learn a JS Framework <img  alt="JavaScript" width="15 px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+- <img width="15px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/books_1f4da.png"> I like writing markup, Sass, JavaScript, Python
+
 - <img width="15px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/237/desktop-computer_1f5a5.png"> I Love building PC &#10084;&#65039;
 
 ### Languages and Tools:
